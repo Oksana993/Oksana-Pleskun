@@ -2,4 +2,17 @@ I am a Software QA Engineer
 
 ![it_sfera](https://user-images.githubusercontent.com/125695479/219976645-38ff0e0c-6388-4476-9de1-84f591b611e2.jpg)
 
-
+ #### Languages and Tools :
+  <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="55" height="55"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp; 
+       <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>&nbsp; 
+        <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" width="40" height="40"  alt="PyCharm"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp; 
+           <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp; 
+         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
+    
