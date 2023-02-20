@@ -1,6 +1,7 @@
 I am a Software QA Engineer 
 
 ![it_sfera](https://user-images.githubusercontent.com/125695479/219976645-38ff0e0c-6388-4476-9de1-84f591b611e2.jpg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oksana-pleskun)
 
  #### Languages and Tools :
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
