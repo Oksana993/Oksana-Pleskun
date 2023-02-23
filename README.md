@@ -1,6 +1,10 @@
-I am a Software QA Engineer 
+ <h3 align="center">
+Welcome to my profile!
+
+I am a Software QA Engineer
 
 ![0_unejnxeak8zoxlm2-1024x545](https://user-images.githubusercontent.com/125695479/220458875-4be88bc2-4873-4434-9955-5f2beffb947c.jpeg)
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oksana-pleskun)
 
