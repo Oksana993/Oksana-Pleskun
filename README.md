@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Enginner)](https://git.io/typing-svg)
+ 
+ 
  <h3 align="center">
 Welcome to my profile!
 
