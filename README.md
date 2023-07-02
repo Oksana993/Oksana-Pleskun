@@ -11,6 +11,7 @@ I am a Software QA Engineer!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oksana-pleskun)
 
+[![codewars](https://www.codewars.com/users/Oksana%20Pleskun/badges/micro)](https://www.codewars.com/users/Oksana%20Pleskun)
  #### Languages and Tools :
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
@@ -25,5 +26,3 @@ I am a Software QA Engineer!
        <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp; 
          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
            <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;
-  
-[![codewars](https://www.codewars.com/users/Oksana%20Pleskun/badges/micro)](https://www.codewars.com/users/Oksana%20Pleskun)
